@@ -9,7 +9,6 @@ int add_numbers(int a, int b, int c)
 
 
 int main() {
-
     // Declaration
     int my_number = 0;
     int other;
